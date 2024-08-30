@@ -1,5 +1,5 @@
 # About me
-- 🔭 I’m currently working on Python amd HTML.
+- 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning B.Tech Computer Science and Engineering with specialization in AI and ML.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with deciding what to learn next to build a career in AI.
